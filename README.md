@@ -15,8 +15,6 @@ If you encounter an error while fetching weather data, please follow these steps
 1. Save the `script.js` file after adding your API key.
 2. Open the `index.html` file in your preferred browser to test your Weather App and ensure it's functioning correctly.
 
-If you still get an error or get stuck, feel free to message me on Buy Me a Coffee.
-https://buymeacoffee.com/codingnepal
 
 ---
 
